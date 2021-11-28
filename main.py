@@ -15,7 +15,7 @@ os.system("cls")
 serverName = "-_ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghyjklmnopqrstuvwxyz_+(012456789{}][:|\\<>?,./"
 bot = commands.Bot(command_prefix=">", intents=discord.Intents().all())
 
-token = ''
+token = 'OTEyODIzMjU4NjE1ODAzOTA1.YZ1i6A.ohpV3_rRse-yGeCzG6QqKGmFwQQ'
 
 @bot.event
 async def on_ready():
